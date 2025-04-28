@@ -49,7 +49,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![Output screenshot](img/fork.png)
 
